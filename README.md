@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=E879F9&center=true&vCenter=true&width=700&lines=✨+Marcelle+da+Mata+✨" />
+# 💜✨ Marcelle da Mata ✨💜
+
+### Front-end | QA | IA Generativa | BI
 
 </div>
 
