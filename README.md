@@ -1,4 +1,8 @@
-# ✨ Sobre Mim
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=E879F9&center=true&vCenter=true&width=700&lines=✨+Marcelle+da+Mata+✨" />
+
+</div>
 
 Sou apaixonada por tecnologia, aprendizado contínuo e resolução de problemas.
 
